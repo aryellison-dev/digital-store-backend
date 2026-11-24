@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+coverage/
+.nyc_output/
+media/products/*
+!media/products/.gitkeep
+*.log
+.DS_Store
+.idea/
+.vscode/
